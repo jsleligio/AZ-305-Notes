@@ -13,8 +13,6 @@ Key Skills Measured:
 - Design infrastructure solutions
 
 📂 Repository Structure
-bash
-Copy code
 |-- 📁 StudyNotes
     |-- 📝 01_Identity_and_Governance.md
     |-- 📝 02_DataStorage.md
